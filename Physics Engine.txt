@@ -1,0 +1,13 @@
+1)A physics engine is computer software that provides
+an approximate simulation of certain physical
+ systems, such as rigid body dynamics (including 
+collision detection), soft body dynamics, and fluid
+ dynamics, for the use in the domains of computer
+ graphics, video games and film.
+2)Some physics libraries are matter.js, Ammo.js, 
+cannon.js box2d, p2.js etc.
+3)Video games have evolved over the years to become
+more realistic. One reason for this could be that
+ when objects move in video games, they seem to 
+obey the laws of physics. The software that allows 
+for this is called a physics engine.
